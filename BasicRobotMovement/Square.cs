@@ -16,7 +16,7 @@ namespace BasicRobotMovement
         None
     }
     /// <summary>
-    /// This class represet square or grid on the floor. When robot moves he'll visit squares in particular direction.
+    /// This class represents square or grid on the floor. When robot moves he'll visit squares in particular direction.
     /// </summary>
     public class Square : IEquatable<Square>
     {

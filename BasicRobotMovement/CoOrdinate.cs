@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace BasicRobotMovement
 {
     /// <summary>
-    /// This class represent Co-Ordinate. This'll useful to calculate Bottom Left point and Top Right point of a sqaure.
+    /// This class represent Co-Ordinate. This'll useful to calculate Bottom Left point and Top Right point of a square.
     /// </summary>
    public  class CoOrdinate : IEquatable<CoOrdinate>
     {

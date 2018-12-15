@@ -128,7 +128,7 @@ namespace BasicRobotMovement
         }
 
         /// <summary>
-        /// Calculate how many unqiue squares robot visited.
+        /// Calculate how many unique squares robot visited.
         /// </summary>
         public int NumberOfUniqueSquaresRobotVisited
         {
@@ -180,7 +180,7 @@ namespace BasicRobotMovement
 
 
         /// <summary>
-        /// Hygine check for input entered by user. check whether each part of input [direction_character][number_of_step] format
+        /// Hygiene check for input entered by user. check whether each part of input [direction_character][number_of_step] format
         /// </summary>
         /// <param name="input">each part of input</param>
         /// <returns>true if format is [direction][number] like N4</returns>
