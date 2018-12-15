@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicRobotMovement", "BasicRobotMovement\BasicRobotMovement.csproj", "{94F7DD24-4E06-4400-8950-43C1949A76F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotMovementTest", "RobotMovementTest\RobotMovementTest.csproj", "{7D4BC92B-6ECB-4637-8CC9-E98052423C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F7DD24-4E06-4400-8950-43C1949A76F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F7DD24-4E06-4400-8950-43C1949A76F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F7DD24-4E06-4400-8950-43C1949A76F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F7DD24-4E06-4400-8950-43C1949A76F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4BC92B-6ECB-4637-8CC9-E98052423C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4BC92B-6ECB-4637-8CC9-E98052423C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4BC92B-6ECB-4637-8CC9-E98052423C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4BC92B-6ECB-4637-8CC9-E98052423C76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF93955-9924-4296-AFCE-DD386CDBDD81}
+	EndGlobalSection
+EndGlobal
